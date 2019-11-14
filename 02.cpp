@@ -17,5 +17,6 @@ public:
                 str[j] = str_cpy[i];
             }
         }
+        delete(str_cpy);
 	}
 };
