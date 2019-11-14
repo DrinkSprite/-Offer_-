@@ -20,3 +20,4 @@ public:
         delete(str_cpy);
 	}
 };
+
